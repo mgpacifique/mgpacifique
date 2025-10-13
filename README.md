@@ -1,1 +1,45 @@
-IyDwn5GLIEhpLCBJJ20gTWFuemkgR2F0YWJhemkgUGFjaWZpcXVlIQoKV2VsY29tZSB0byBteSBHaXRIdWIgcHJvZmlsZSEgSSdtIGEgcGFzc2lvbmF0ZSBkZXZlbG9wZXIsIGRlc2lnbmVyLCBhbmQgdGVjaCBlbnRodXNpYXN0IHdobyBlbmpveXMgYnVpbGRpbmcgdXNlZnVsIGFwcGxpY2F0aW9ucywgbGVhcm5pbmcgbmV3IHRlY2hub2xvZ2llcywgYW5kIHNvbHZpbmcgcmVhbC13b3JsZCBwcm9ibGVtcy4KCiMjIPCfmoAgQWJvdXQgTWUKLSDwn5StIEN1cnJlbnRseSB3b3JraW5nIG9uOiBBSSBmaXRuZXNzIGdhZGdldHMKLSDwn4yxIExlYXJuaW5nOiBQeXRob24sIEZsYXNrLCBQSFAsIEphdmFzY3JpcHQsIEphdmEsIEhUTUw1LCBCb290c3RyYXAsIENTUywgTVlTUUwsIFNoZWxsLCBOb2RlLkpTLCBSZWFjdC5KUwotIPCfkqwKLSDwn5OrIEhvdyB0byByZWFjaCBtZTogcG1hbnppZ2F0YWJhemlAZ21haWwuY29tCi0g4pqhIEZ1biBmYWN0OiBJIGxpa2UgYmFza2V0YmFsbCAmIGZvb3RiYWxsIGFuZCBJIHNwZW5kIHRpbWUgdHJ5aW5nIHRvIGJlIGdvb2QgYXQgaXQuCgojIyDwn6ewIFRlY2ggU3RhY2sKIVtQeXRob25dKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUHl0aG9uLTM3NzZBQj9zdHlsZT1mbGF0JmxvZ289cHl0aG9uJmxvZ29Db2xvcj13aGl0ZSkKIVtGbGFza10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9GbGFzay0wMDAwMDA/c3R5bGU9ZmxhdCZsb2dvPWZsYXNrJmxvZ29Db2xvcj13aGl0ZSkKIVtKYXZhU2NyaXB0XShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0phdmFTY3JpcHQtRjdERjFFP3N0eWxlPWZsYXQmbG9nbz1qYXZhc2NyaXB0JmxvZ29Db2xvcj1ibGFjaykKIVtIVE1MNV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9IVE1MNS1FMzRGMjY/c3R5bGU9ZmxhdCZsb2dvPWh0bWw1JmxvZ29Db2xvcj13aGl0ZSkKIVtDU1MzXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0NTUzMtMTU3MkI2P3N0eWxlPWZsYXQmbG9nbz1jc3MzJmxvZ29Db2xvcj13aGl0ZSkKIVtCb290c3RyYXBdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvQm9vdHN0cmFwLTU2M0Q3Qz9zdHlsZT1mbGF0JmxvZ289Ym9vdHN0cmFwJmxvZ29Db2xvcj13aGl0ZSkKIVtNeVNRTF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9NeVNRTC00NDc5QTE/c3R5bGU9ZmxhdCZsb2dvPW15c3FsJmxvZ29Db2xvcj13aGl0ZSkKIVtHaXRdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvR2l0LUYwNTAzMj9zdHlsZT1mbGF0JmxvZ289Z2l0JmxvZ29Db2xvcj13aGl0ZSkKIVtTaGVsbF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9TaGVsbC0xMjEwMTE/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWdudS1iYXNoJmxvZ29Db2xvcj13aGl0ZSkKIVtOb2RlLkpTXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL05vZGUuanMtMzE1OTE1P3N0eWxlPWZsYXQmbG9nbz1ub2RlLmpzJmxvZ29Db2xvcj13aGl0ZSkKIVtSZWFjdC5KU10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9SZWFjdC1ERjNDNDc/c3R5bGU9ZmxhdCZsb2dvPXJlYWN0JmxvZ29Db2xvcj13aGl0ZSkKCiMjIPCfk4ggR2l0SHViIFN0YXRzCgo8cCBhbGlnbj0iY2VudGVyIj4KICA8aW1nIHNyYz0iaHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLnZlcmNlbC5hcHAvYXBpP3VzZXJuYW1lPW1ncGFjaWZpcXVlJnNob3dfaWNvbnM9dHJ1ZSZ0aGVtZT1yYWRpY2FsIiB3aWR0aD0iNDclIi8+CiAgPGltZyBzcmM9Imh0dHBzOi8vZ2l0aHViLXJlYWRtZS1zdHJlYWstc3RhdHMuaGVyb2t1YXBwLmNvbS8/dXNlcj1tZ3BhY2lmaXF1ZSZ0aGVtZT1yYWRpY2FsIiB3aWR0aD0iNDclIi8+CjwvcD4KCiMjIPCfk4wgUGlubmVkIFByb2plY3RzCgpIZXJlIGFyZSBzb21lIHByb2plY3RzIEnigJltIHByb3VkIG9mOgoKLSDwn5S5IFtUZWxjby1jdXN0b21lciBjaHVybiBwcmVkaWN0aW9uXShbbGluay10by1yZXBvXShodHRwczovL2dpdGh1Yi5jb20vbWdwYWNpZmlxdWUvVGVsY28tQ3VzdG9tZXItQ2h1cm4tUHJlZGljdGlvbi1TdHJlYW1saXQtQXBwLW1haW4pKSDigJQgKkEgbWFjaGluZSBsZWFybmluZyBwcm9qZWN0IHRoYXQgcHJlZGljdHMgd2hldGhlciBhIHRlbGVjb20gY3VzdG9tZXIgaXMgbGlrZWx5IHRvIGNodXJuIGJhc2VkIG9uIHRoZWlyIHVzYWdlIHBhdHRlcm5zLCBkZW1vZ3JhcGhpY3MsIGFuZCBzZXJ2aWNlIGhpc3RvcnkuIFRoZSBtb2RlbCBpcyB0cmFpbmVkIHVzaW5nIGNsYXNzaWZpY2F0aW9uIGFsZ29yaXRobXMgc3VjaCBhcyBMb2dpc3RpYyBSZWdyZXNzaW9uLCBSYW5kb20gRm9yZXN0LCBhbmQgWEdCb29zdC4gVGhlIHByb2plY3QgaW5jbHVkZXMgZGF0YSBwcmVwcm9jZXNzaW5nLCBleHBsb3JhdG9yeSBkYXRhIGFuYWx5c2lzIChFREEpLCBmZWF0dXJlIGVuZ2luZWVyaW5nLCBtb2RlbCBldmFsdWF0aW9uLCBhbmQgZGVwbG95bWVudCB1c2luZyBTdHJlYW1saXQuKgoKIyMg8J+MkCBMZXQncyBDb25uZWN0CgpbIVtMaW5rZWRJbl0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9MaW5rZWRJbi1ibHVlP3N0eWxlPWZsYXQmbG9nbz1saW5rZWRpbiZsb2dvQ29sb3I9d2hpdGUpXShodHRwczovL3d3dy5saW5rZWRpbi5jb20vaW4vbWFuemktZ2F0YWJhemktcGFjaWZpcXVlLTI0YTA3MTJiYi8pClshW0luc3RhZ3JhbV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9JbnN0YWdyYW0tRTQ0MDVGP3N0eWxlPWZsYXQmbG9nbz1pbnN0YWdyYW0mbG9nb0NvbG9yPXdoaXRlKV0oaHR0cHM6Ly9pbnN0YWdyYW0uY29tL21ncGFjaWZpcXVlKQoKLS0tCgrirZDvuI8gKlRoYW5rcyBmb3IgdmlzaXRpbmchIEZlZWwgZnJlZSB0byBjaGVjayBvdXQgbXkgcmVwb3NpdG9yaWVzIGFuZCBkcm9wIGEg4q2QIGlmIHlvdSBsaWtlIG15IHdvcmsuKgo=
+# 👋 Hi, I'm Manzi Gatabazi Pacifique!
+
+Welcome to my GitHub profile! I'm a passionate developer, designer, and tech enthusiast who enjoys building useful applications, learning new technologies, and solving real-world problems.
+
+## 🚀 About Me
+- 🔭 Currently working on: AI fitness gadgets
+- 🌱 Learning: Python, Flask, PHP, Javascript, Java, HTML5, Bootstrap, CSS, MYSQL
+- 💬 Ask me about: Coding, etc...
+- 📫 How to reach me: pmanzigatabazi@gmail.com
+- ⚡ Fun fact: I like basketball & football and I spend time trying to be good at it.
+
+## 🧰 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mgpacifique&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgpacifique&theme=radical" width="47%"/>
+</p>
+
+## 📌 Pinned Projects
+
+Here are some projects I’m proud of:
+
+- 🔹 [Telco-customer churn prediction]([link-to-repo](https://github.com/mgpacifique/Telco-Customer-Churn-Prediction-Streamlit-App-main)) — *A machine learning project that predicts whether a [...]
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manzi-gatabazi-pacifique-24a0712bb/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mgpacifique)
+
+---
+
+⭐️ *Thanks for visiting! Feel free to check out my repositories and drop a ⭐ if you like my work.*
