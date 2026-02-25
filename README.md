@@ -45,19 +45,12 @@ I’m a developer interested in building practical products, learning fast, and 
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mgpacifique&show_icons=true&theme=radical" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgpacifique&theme=radical" width="49%"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgpacifique&theme=radical" width="49%"/> -->
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgpacifique&layout=compact&theme=radical" width="49%"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgpacifique&layout=compact&theme=radical" width="49%"/> -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgpacifique&theme=radical" width="99%"/>
-</p>
-
----
-
-## Trophies (Highlights)
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=mgpacifique&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 ---
