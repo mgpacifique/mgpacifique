@@ -1,6 +1,6 @@
 # Hi, I'm Manzi Gatabazi Pacifique 👋
 
-I’m a developer interested in building practical products, learning fast, and applying AI + web technologies to real problems..
+I’m a developer interested in building practical products, learning fast, and applying AI + web technologies to real problems.
 
 - 🔭 Current focus: **AI fitness gadgets**
 - 🌱 Learning: **Python, Flask, PHP, JavaScript, TypeScript, Ruby, Java, HTML/CSS, Tailwind CSS, Bootstrap, MySQL**
